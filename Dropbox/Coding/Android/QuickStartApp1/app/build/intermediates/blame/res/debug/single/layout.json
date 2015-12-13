@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pushlink.xml",
+        "source": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\src\\main\\res\\layout\\pushlink.xml"
+    },
+    {
+        "merged": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selectbridge_item.xml",
+        "source": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\src\\main\\res\\layout\\selectbridge_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bridgelistlinear.xml",
+        "source": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\src\\main\\res\\layout\\bridgelistlinear.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\press_smartbridge.xml",
+        "source": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\src\\main\\res\\drawable-mdpi\\press_smartbridge.xml"
+    },
+    {
+        "merged": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\image_clear.png",
+        "source": "C:\\Users\\saras_000\\Dropbox\\Coding\\Android\\QuickStartApp1\\app\\src\\main\\res\\drawable-mdpi\\image_clear.png"
+    }
+]
